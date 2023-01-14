@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 print('asdfdsfasdf')
 
 
@@ -7,3 +8,4 @@ asfasfasf
 
 
 assert (asdffafasdfasfaf)
+print('srgsdggsdgsdg')
